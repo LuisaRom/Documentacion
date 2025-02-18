@@ -11,21 +11,8 @@ public class Main {
 
 
 
-        System.out.println("git config --global user.name");
-        System.out.println("git config --global user.gmail");
-        System.out.println("git config --list");
-        System.out.println("git init");
-        System.out.println("git status");
-        System.out.println("git long");
-        System.out.println("git add .");
-        System.out.println("git commit");
-        System.out.println("git push");
-        System.out.println("git pull");
-        System.out.println("git switch");
-        System.out.println("git branch -D");
-        System.out.println("gir branch --delete");
-        System.out.println("como devolver cambios de la rama");
-        System.out.println("git merge");
+        System.out.println("LUISA NO QUIERE TRABAJAR");
+        System.out.println("ARQUITECTURA");
+        System.out.println("NOS ESTAN LLENANDO DE TRABAJOS AJAJA");
 
-    }
 }
